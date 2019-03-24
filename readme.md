@@ -7,6 +7,14 @@ Clone project and execute following tasks:
 
 ```
 composer update
-mv .env.example .env
+mv .env.example .env 
+php artisan key:generate
+```
+
+or
+
+```
+composer update
+cp .env.example .env 
 php artisan key:generate
 ```

@@ -100,7 +100,7 @@
                     Laravel 5.8
                 </div>
 
-                <div class="m-b-lg subtitle">Empty Laravel Project with ide-helper included</div>
+                <div class="m-b-lg subtitle">Empty Laravel Project with ide-helper, debugbar and authentication included</div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
@@ -110,7 +110,7 @@
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
-                    <a href="https://github.com/SchuBu/new-laravel-project">GitHub Package</a>
+                    <a href="https://github.com/SchuBu/new-laravel-project-with-auth">SchuBu GitHub Package</a>
                 </div>
             </div>
         </div>
